@@ -1,0 +1,19 @@
+{
+  "name": "flame-example",
+  "version": "1.0.0",
+  "source": "html/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel html/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
